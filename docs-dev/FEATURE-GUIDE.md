@@ -583,7 +583,7 @@ const text = "KK，我看到你的消息啦！<#0.5#>现在开始帮你处理<#0
   "voice": {
     "engine": "dashscope",
     "dashscope": {
-      "apiKey": "sk-aa02695435f240558af5218319a60b56",
+      "apiKey": "<YOUR_DASHSCOPE_API_KEY>",
       "model": "cosyvoice-v3-plus",
       "voice": "cosyvoice-v3-plus-tuantuan-xxx"
     }
